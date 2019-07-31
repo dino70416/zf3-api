@@ -1,0 +1,16 @@
+<?php
+return [
+    'api' => [
+        'url' => 'http://api.cloudschool.tw',
+        'client_id' => 'xxxxxxxx',
+        'client_secret' => 'xxxxxxxxxx'
+    ],
+
+    'db' => [
+        'host' => "mysqldb",
+        'user' => "root",
+        'password' => "root",
+        'dbname' => "school_cms",
+        'charset' => "utf8mb4"
+    ]
+];
